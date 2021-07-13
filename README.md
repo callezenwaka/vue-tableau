@@ -1,5 +1,6 @@
 # vue-tableau
 
+## A Vue.js application with tableau visualisations.
 ## Project setup
 ```
 npm install
@@ -32,4 +33,3 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-tableau
