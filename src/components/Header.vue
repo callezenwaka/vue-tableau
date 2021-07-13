@@ -38,6 +38,9 @@ export default {
 .header--logo {
   flex: auto;
 }
-.header--topics {
+.header--topics select {
+  line-height: 1.5;
+  min-height: 1.5rem;
+  padding: 0 0.5rem;
 }
 </style>
